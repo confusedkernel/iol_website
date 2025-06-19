@@ -42,6 +42,7 @@ import marquez from "@/assets/img/ivana-square.jpg";
                     activity deemed to be an art."
           />
         </div>
+        
         <div class="col-lg-6 col-12">
           <HorizontalTeamCard
             class="mt-lg-4 mt-5"
